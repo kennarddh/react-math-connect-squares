@@ -23,6 +23,7 @@
 		"^Constants/",
 		"^Api/",
 		"^Pages/",
+		"^Types/",
 		"^[./]"
 	],
 	"importOrderSeparation": true,
