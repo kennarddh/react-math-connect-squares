@@ -7,7 +7,7 @@ export enum QuestionDifficulty {
 export interface Question {
 	id: string
 	question: string
-	answer: number
+	answers: number[]
 	difficulty: QuestionDifficulty
 }
 
